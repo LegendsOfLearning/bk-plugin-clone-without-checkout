@@ -1,0 +1,4 @@
+#!/bin/bash -euo
+
+export BUILDKITE_GIT_CLONE_FLAGS="-v --no-checkout"
+
